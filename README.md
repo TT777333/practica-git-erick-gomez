@@ -33,6 +33,8 @@ Se uso:
 
 `git commit -m` : Crea un commit con un mensaje personalizado
 
+`git log` : Muestra los commits
+
 `git remote add origin` : Vincula un repositorio remoto especificado
 
 `git remote -v` : Muestra los repositorios vinculados
